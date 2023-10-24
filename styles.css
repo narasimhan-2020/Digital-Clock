@@ -77,3 +77,15 @@
 #sec::after{
     content:"SECONDS";
 }
+.attribution
+{
+    font-size: 200%;
+    font-family: sans-serif;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(235, 0, 255,0.11);
+    color: rgba(255, 255, 255, 0.89);
+}
